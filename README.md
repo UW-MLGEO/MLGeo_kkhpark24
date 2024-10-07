@@ -9,3 +9,5 @@ conda env create -n mlgeo-dataset -f environment.yml
 conda activate
 ```
 
+## Favorite Earth Science Topics
+Astrobiology, biogeochemistry, geobiology, geomicrobiology, origins of life, environmental geochemistry
