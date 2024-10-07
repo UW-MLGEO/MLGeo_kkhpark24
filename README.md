@@ -5,8 +5,8 @@ Copy the repository URL. On your local machine, use this code to create a clone 
 
 ```
 git clone https://github.com/UW-MLGEO/MLGeo_kkhpark24.git
-conda env create -n mlgeo-dataset -f environment.yml
-conda activate
+conda env create -n mlgeo_kkhpark24 -f environment.yml
+conda activate mlgeo_kkhpark24
 ```
 
 ## Favorite Earth Science Topics
