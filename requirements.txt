@@ -1,0 +1,9 @@
+
+  matplotlib
+  numpy
+  obspy
+  pandas
+  nbgitpuller
+  wget
+  pooch
+  jupyterlab
