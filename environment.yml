@@ -1,4 +1,4 @@
-name: mlgeo_dataset
+name: mlgeo_kkhpark24
 channels:
   - conda-forge
 dependencies:
